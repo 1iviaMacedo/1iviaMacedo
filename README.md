@@ -2,8 +2,6 @@
 
 ![Lívia Macedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1iviaMacedo&theme=radical&show_icons=true)
 
-  ##
-
   <img align="center" alt="Linkendin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
   ## 
