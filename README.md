@@ -2,7 +2,9 @@
 
 ![Lívia Macedo's GitHub stats](https://github-readme-stats.vercel.app/api?username=1iviaMacedo&theme=radical&show_icons=true)
 
+  ##
 
+  <img align="center" alt="Linkendin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
   ## 
   
@@ -13,7 +15,6 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   <img align="center" alt="Miro" height="30" width="30" src="https://img.utdstc.com/icon/986/4df/9864df183e78a4a78e6113daea3de38a87e98700186480022d1b7917ecd7fc34:200" />
-  <img align="center" alt="Linkendin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   <img align="center" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
           
   
